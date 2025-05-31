@@ -1,0 +1,5 @@
+.env
+*.csv
+.ipynb_checkpoints
+Movie-recommender-system_files
+*.pkl
